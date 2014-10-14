@@ -1,7 +1,7 @@
-<poster>ZONA INFANTIL</poster>
-<thumbnail>http://www.fondosdepantalla.biz/images/wallpapers/elmo-29497-1280x800-255404.jpeg</thumbnail>
-<fanart>http://www.fondosdepantalla.biz/images/wallpapers/nico__pedro_in_rio_2-1280x800-238145.jpeg</fanart>
-
+ <channel> 
+    <name>PELIS PEKES</name> 
+    <thumbnail></thumbnail> 
+    <items> 
 <item>
 <title>LA PANDILLA LOS HEROES DEL DIA</title>
 <link>http://allmyvideos.net/m59jb426oqo6</link>
@@ -1447,3 +1447,10 @@
 <link></link>
 <thumbnail></thumbnail>
 </item>
+<item>
+    <title></title>
+    <link></link>
+    <thumbnail></thumbnail>
+    </item>
+    </items> 
+    </channel>
